@@ -1,0 +1,4 @@
+/*
+Consultando el DOM con getElementById y querySelector
+En esta clase vamos a ver a aprender a seleccionar elementos del DOM
+*/
