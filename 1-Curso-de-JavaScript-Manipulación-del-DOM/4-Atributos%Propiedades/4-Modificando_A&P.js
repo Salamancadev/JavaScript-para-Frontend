@@ -17,8 +17,12 @@ Y llamamos nuestro objeto con: console.dir(input)
 Asi podemos verificar que estos atributos ahora son propiedades del elemento.
 
 
-EJ: Moficiando una propiedad en JS para modificar el atributo en HTML
+EJ: Moficiando una propiedad con JS 
+Llamamaos a la propiedad value: input.value
+Y lo cambiamos con un igual: input.value = "Apellido"
 
+Ojo: Esto solo cambia la propiedad del DOM pero no cambiar el atributo orginal
+en el HTML.
 
 */
 
