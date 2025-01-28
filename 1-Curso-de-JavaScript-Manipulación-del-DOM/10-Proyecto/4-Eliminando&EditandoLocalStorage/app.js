@@ -83,3 +83,5 @@ function updateLocalStorage() {
     const tasks = Array.from(taskList.querySelectorAll("li")).map((li) => li.firstChild.textContent);
     localStorage.setItem("tasks", JSON.stringify(tasks));
 }
+
+//Se elimino el elemento Hardconeado para solucionar el problema.
